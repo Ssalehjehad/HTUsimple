@@ -1,0 +1,28 @@
+.bg-primary{
+    background-color: #2c3e50  !important;
+}
+.bg-secondry{
+    background-color: #1abc9c !important ;
+}
+.sbut{
+    color: white !important;
+    background-color: #1abc9c !important;
+    border-color: white !important; 
+    border-width: 2px !important;
+}
+.sbut:hover{
+    color: black !important;
+    background-color: white !important;
+    border-color: white !important; 
+    border-width: 2px !important;
+}
+::placeholder{
+    font-weight: 600;
+
+}
+input{
+    border: none !important;
+}
+.img-fluid{
+    border-radius: 10px;
+}
